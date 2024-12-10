@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: e47c5756eecdf7b40978bc6a8a251e10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6605498920155709762
+    second: Player(qualidade boa)_0
+  - first:
+      213: -8180961145076591671
+    second: Player(qualidade boa)_1
+  - first:
+      213: -8668381600554153034
+    second: Player(qualidade boa)_2
+  - first:
+      213: -8533881774221842954
+    second: Player(qualidade boa)_3
+  - first:
+      213: 5224997656424884618
+    second: Player(qualidade boa)_4
+  - first:
+      213: 2788654699279063314
+    second: Player(qualidade boa)_5
+  - first:
+      213: 7629954550105024793
+    second: Player(qualidade boa)_6
+  - first:
+      213: -6515230484500546645
+    second: Player(qualidade boa)_7
+  - first:
+      213: 1547823948908627445
+    second: Player(qualidade boa)_8
+  - first:
+      213: -1613286745834377742
+    second: Player(qualidade boa)_9
+  - first:
+      213: -2941174816533780063
+    second: Player(qualidade boa)_10
+  - first:
+      213: 2739808813835368083
+    second: Player(qualidade boa)_11
+  - first:
+      213: -1805267738900963096
+    second: Player(qualidade boa)_12
+  - first:
+      213: -4675647112265432026
+    second: Player(qualidade boa)_13
+  - first:
+      213: -1068248864790088874
+    second: Player(qualidade boa)_14
+  - first:
+      213: -4587971192330292786
+    second: Player(qualidade boa)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player(qualidade boa)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1791
+        width: 865
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe74e3cabd8454a0800000000000000
+      internalID: -6605498920155709762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_1
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1759
+        width: 866
+        height: 1410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3df62ee23677e80800000000000000
+      internalID: -8180961145076591671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_2
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1791
+        width: 866
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb00718cd8b3b780800000000000000
+      internalID: -8668381600554153034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_3
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1759
+        width: 866
+        height: 1410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5a354adbf819980800000000000000
+      internalID: -8533881774221842954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_4
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 1791
+        width: 674
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89247f6fabe28840800000000000000
+      internalID: 5224997656424884618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_5
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 1791
+        width: 706
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21990cf8caa43b620800000000000000
+      internalID: 2788654699279063314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_6
+      rect:
+        serializedVersion: 2
+        x: 6015
+        y: 1791
+        width: 674
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a263fc3b03e960800000000000000
+      internalID: 7629954550105024793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_7
+      rect:
+        serializedVersion: 2
+        x: 7039
+        y: 1791
+        width: 674
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab7c8db4604595a0800000000000000
+      internalID: -6515230484500546645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 674
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f58a894ea9fa7510800000000000000
+      internalID: 1547823948908627445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_9
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 95
+        width: 674
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd22b190447c99e0800000000000000
+      internalID: -1613286745834377742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_10
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 0
+        width: 674
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9ed2e5619de27d0800000000000000
+      internalID: -2941174816533780063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_11
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 0
+        width: 674
+        height: 1377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396342d9991c50620800000000000000
+      internalID: 2739808813835368083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_12
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 31
+        width: 866
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0e5526e8662f6e0800000000000000
+      internalID: -1805267738900963096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_13
+      rect:
+        serializedVersion: 2
+        x: 4927
+        y: 63
+        width: 866
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624865a59b3cc1fb0800000000000000
+      internalID: -4675647112265432026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_14
+      rect:
+        serializedVersion: 2
+        x: 5951
+        y: 31
+        width: 866
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f87a3151dc21f0800000000000000
+      internalID: -1068248864790088874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player(qualidade boa)_15
+      rect:
+        serializedVersion: 2
+        x: 6975
+        y: 63
+        width: 865
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec17d6932804450c0800000000000000
+      internalID: -4587971192330292786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Player(qualidade boa)_0: -6605498920155709762
+      Player(qualidade boa)_1: -8180961145076591671
+      Player(qualidade boa)_10: -2941174816533780063
+      Player(qualidade boa)_11: 2739808813835368083
+      Player(qualidade boa)_12: -1805267738900963096
+      Player(qualidade boa)_13: -4675647112265432026
+      Player(qualidade boa)_14: -1068248864790088874
+      Player(qualidade boa)_15: -4587971192330292786
+      Player(qualidade boa)_2: -8668381600554153034
+      Player(qualidade boa)_3: -8533881774221842954
+      Player(qualidade boa)_4: 5224997656424884618
+      Player(qualidade boa)_5: 2788654699279063314
+      Player(qualidade boa)_6: 7629954550105024793
+      Player(qualidade boa)_7: -6515230484500546645
+      Player(qualidade boa)_8: 1547823948908627445
+      Player(qualidade boa)_9: -1613286745834377742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
