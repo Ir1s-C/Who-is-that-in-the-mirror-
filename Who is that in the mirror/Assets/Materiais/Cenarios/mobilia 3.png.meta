@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 9b5a7720c85f53c4e8e405e348e4afc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2788442446483497051
+    second: mobilia 3_0
+  - first:
+      213: 7868120938964073069
+    second: mobilia 3_1
+  - first:
+      213: -5845464869965922281
+    second: mobilia 3_2
+  - first:
+      213: -5278634115191395350
+    second: mobilia 3_3
+  - first:
+      213: -834534212348524285
+    second: mobilia 3_4
+  - first:
+      213: 1085033574619591676
+    second: mobilia 3_5
+  - first:
+      213: 2600763907534051995
+    second: mobilia 3_6
+  - first:
+      213: -7421056434033182642
+    second: mobilia 3_7
+  - first:
+      213: 6297146715726990572
+    second: mobilia 3_8
+  - first:
+      213: -208774044810235123
+    second: mobilia 3_9
+  - first:
+      213: -8016104935920048274
+    second: mobilia 3_10
+  - first:
+      213: -5483325469630271573
+    second: mobilia 3_11
+  - first:
+      213: -855968798191026310
+    second: mobilia 3_12
+  - first:
+      213: -4114246297695673904
+    second: mobilia 3_13
+  - first:
+      213: -1113748234180561147
+    second: mobilia 3_14
+  - first:
+      213: 805325618985696518
+    second: mobilia 3_15
+  - first:
+      213: 999317045796585247
+    second: mobilia 3_16
+  - first:
+      213: 9185005144314043570
+    second: mobilia 3_17
+  - first:
+      213: 2900650823059986828
+    second: mobilia 3_18
+  - first:
+      213: 8014683614032400422
+    second: mobilia 3_19
+  - first:
+      213: 5087794906420048508
+    second: mobilia 3_20
+  - first:
+      213: 8074356218187130548
+    second: mobilia 3_21
+  - first:
+      213: -6267881843294340334
+    second: mobilia 3_22
+  - first:
+      213: 1123550300131044568
+    second: mobilia 3_23
+  - first:
+      213: 3320078424459887266
+    second: mobilia 3_24
+  - first:
+      213: 6307219779659551875
+    second: mobilia 3_25
+  - first:
+      213: 8428001634959587779
+    second: mobilia 3_26
+  - first:
+      213: -2062664212300994112
+    second: mobilia 3_27
+  - first:
+      213: 7559037441227835528
+    second: mobilia 3_28
+  - first:
+      213: -8421348768357513588
+    second: mobilia 3_29
+  - first:
+      213: 1703309666512745232
+    second: mobilia 3_30
+  - first:
+      213: 197216302760121867
+    second: mobilia 3_31
+  - first:
+      213: 7608498908322118836
+    second: mobilia 3_32
+  - first:
+      213: -8814403175285865868
+    second: mobilia 3_33
+  - first:
+      213: 5392400434634997062
+    second: mobilia 3_34
+  - first:
+      213: 6195652361531956037
+    second: mobilia 3_35
+  - first:
+      213: 4637162328214115538
+    second: mobilia 3_36
+  - first:
+      213: -4821053379346974368
+    second: mobilia 3_37
+  - first:
+      213: 4788182011811274004
+    second: mobilia 3_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mobilia 3_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3999
+        width: 834
+        height: 1474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50254b91a982b620800000000000000
+      internalID: 2788442446483497051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_1
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 4767
+        width: 514
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a34c09e4e213d60800000000000000
+      internalID: 7868120938964073069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_2
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 4671
+        width: 738
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71008aedbacb0eea0800000000000000
+      internalID: -5845464869965922281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_3
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 4735
+        width: 706
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb22c85d368eb6b0800000000000000
+      internalID: -5278634115191395350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_4
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 4735
+        width: 738
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3094e003e832b64f0800000000000000
+      internalID: -834534212348524285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_5
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 4735
+        width: 706
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b2909940de0f00800000000000000
+      internalID: 1085033574619591676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_6
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 4031
+        width: 2466
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a59359ef4c71420800000000000000
+      internalID: 2600763907534051995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_7
+      rect:
+        serializedVersion: 2
+        x: 8063
+        y: 4095
+        width: 2466
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48335fdd7c130990800000000000000
+      internalID: -7421056434033182642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_8
+      rect:
+        serializedVersion: 2
+        x: 10751
+        y: 4255
+        width: 834
+        height: 1281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceccc610395f36750800000000000000
+      internalID: 6297146715726990572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_9
+      rect:
+        serializedVersion: 2
+        x: 11839
+        y: 4447
+        width: 481
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03b3c4cc194a1df0800000000000000
+      internalID: -208774044810235123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_10
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 3743
+        width: 1538
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ea3c280311c090800000000000000
+      internalID: -8016104935920048274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_11
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 3647
+        width: 834
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafe5da898057e3b0800000000000000
+      internalID: -5483325469630271573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_12
+      rect:
+        serializedVersion: 2
+        x: 4447
+        y: 3519
+        width: 834
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f7105c9ecfe14f0800000000000000
+      internalID: -855968798191026310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_13
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2975
+        width: 706
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1226b5ac247e6c0800000000000000
+      internalID: -4114246297695673904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_14
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 2239
+        width: 770
+        height: 1602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507f274c1eb2b80f0800000000000000
+      internalID: -1113748234180561147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_15
+      rect:
+        serializedVersion: 2
+        x: 10815
+        y: 2335
+        width: 770
+        height: 1634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60df92832671d2b00800000000000000
+      internalID: 805325618985696518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2207
+        width: 1378
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fb2bcfe894edd00800000000000000
+      internalID: 999317045796585247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_17
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2751
+        width: 418
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc59f6b381b77f70800000000000000
+      internalID: 9185005144314043570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_18
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 2751
+        width: 418
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c895fe52e8e214820800000000000000
+      internalID: 2900650823059986828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_19
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 2399
+        width: 834
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6209b898840e93f60800000000000000
+      internalID: 8014683614032400422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_20
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 2303
+        width: 866
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c727537d28a7b9640800000000000000
+      internalID: 5087794906420048508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_21
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 2367
+        width: 802
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6a20f5330ed0070800000000000000
+      internalID: 8074356218187130548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_22
+      rect:
+        serializedVersion: 2
+        x: 8127
+        y: 3039
+        width: 802
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bf1541ca20409a0800000000000000
+      internalID: -6267881843294340334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_23
+      rect:
+        serializedVersion: 2
+        x: 9151
+        y: 2623
+        width: 738
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc289e8b07a79f00800000000000000
+      internalID: 1123550300131044568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_24
+      rect:
+        serializedVersion: 2
+        x: 10175
+        y: 2687
+        width: 514
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2ce5c8cb9431e20800000000000000
+      internalID: 3320078424459887266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_25
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1919
+        width: 450
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384dce6f8feb78750800000000000000
+      internalID: 6307219779659551875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_26
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 2207
+        width: 610
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c97d2265d646f470800000000000000
+      internalID: 8428001634959587779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_27
+      rect:
+        serializedVersion: 2
+        x: 7103
+        y: 2623
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c963eec3d1ff53e0800000000000000
+      internalID: -2062664212300994112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_28
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1919
+        width: 450
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8884348d08817e860800000000000000
+      internalID: 7559037441227835528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_29
+      rect:
+        serializedVersion: 2
+        x: 8895
+        y: 319
+        width: 866
+        height: 1634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c868064d9eb512b80800000000000000
+      internalID: -8421348768357513588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 1282
+        height: 1474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0133bfefd1f53a710800000000000000
+      internalID: 1703309666512745232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_31
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1023
+        width: 482
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06dee5be27acb200800000000000000
+      internalID: 197216302760121867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_32
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 863
+        width: 834
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcbc701271d69960800000000000000
+      internalID: 7608498908322118836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_33
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 255
+        width: 2466
+        height: 1122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472c2064303fca580800000000000000
+      internalID: -8814403175285865868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_34
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 927
+        width: 642
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64db41900a7a5da40800000000000000
+      internalID: 5392400434634997062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_35
+      rect:
+        serializedVersion: 2
+        x: 7103
+        y: 991
+        width: 674
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b1ce03ff06bf550800000000000000
+      internalID: 6195652361531956037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_36
+      rect:
+        serializedVersion: 2
+        x: 7871
+        y: 895
+        width: 866
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4960b91928a5040800000000000000
+      internalID: 4637162328214115538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_37
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 31
+        width: 706
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069b3d89e7d281db0800000000000000
+      internalID: -4821053379346974368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilia 3_38
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 95
+        width: 706
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d1dedbb2a037240800000000000000
+      internalID: 4788182011811274004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
