@@ -152,6 +152,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -410,7 +436,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Espelho_0: 1135128499231249344
+      Espelho_1: -7254212319311401279
+      Espelho_10: -4741617315317027697
+      Espelho_2: 4210022572962778844
+      Espelho_3: 27295744532237225
+      Espelho_4: -3423925693418460928
+      Espelho_5: 4499292182340694357
+      Espelho_6: 7311680011346412649
+      Espelho_7: -7342280645188991460
+      Espelho_8: -305122074625625642
+      Espelho_9: 3788544107492055227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 5f;
+    public float speed = 3f;
     private Rigidbody2D rb;
     private Animator animator;
     private Vector2 movement;

@@ -236,6 +236,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1110,7 +1136,46 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mobilia 3_0: 2788442446483497051
+      mobilia 3_1: 7868120938964073069
+      mobilia 3_10: -8016104935920048274
+      mobilia 3_11: -5483325469630271573
+      mobilia 3_12: -855968798191026310
+      mobilia 3_13: -4114246297695673904
+      mobilia 3_14: -1113748234180561147
+      mobilia 3_15: 805325618985696518
+      mobilia 3_16: 999317045796585247
+      mobilia 3_17: 9185005144314043570
+      mobilia 3_18: 2900650823059986828
+      mobilia 3_19: 8014683614032400422
+      mobilia 3_2: -5845464869965922281
+      mobilia 3_20: 5087794906420048508
+      mobilia 3_21: 8074356218187130548
+      mobilia 3_22: -6267881843294340334
+      mobilia 3_23: 1123550300131044568
+      mobilia 3_24: 3320078424459887266
+      mobilia 3_25: 6307219779659551875
+      mobilia 3_26: 8428001634959587779
+      mobilia 3_27: -2062664212300994112
+      mobilia 3_28: 7559037441227835528
+      mobilia 3_29: -8421348768357513588
+      mobilia 3_3: -5278634115191395350
+      mobilia 3_30: 1703309666512745232
+      mobilia 3_31: 197216302760121867
+      mobilia 3_32: 7608498908322118836
+      mobilia 3_33: -8814403175285865868
+      mobilia 3_34: 5392400434634997062
+      mobilia 3_35: 6195652361531956037
+      mobilia 3_36: 4637162328214115538
+      mobilia 3_37: -4821053379346974368
+      mobilia 3_38: 4788182011811274004
+      mobilia 3_4: -834534212348524285
+      mobilia 3_5: 1085033574619591676
+      mobilia 3_6: 2600763907534051995
+      mobilia 3_7: -7421056434033182642
+      mobilia 3_8: 6297146715726990572
+      mobilia 3_9: -208774044810235123
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
