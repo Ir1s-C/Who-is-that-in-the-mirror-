@@ -1,37 +1,66 @@
-using UnityEngine; 
-public class PlayerController : MonoBehaviour 
-{ 
-    public float moveSpeed = 5f; 
-    public float interactionRange = 2f; 
-    public LayerMask interactableLayer; 
-    private Rigidbody2D rb; private Vector2 movement; 
-    
-    void Start() 
-    { 
-        rb = GetComponent<Rigidbody2D>(); 
-    } 
-    
-    void Update() 
-    { 
-        float moveX = Input.GetAxisRaw("Horizontal"); 
-        float moveY = Input.GetAxisRaw("Vertical"); m
-        ovement = new Vector2(moveX, moveY).normalized; 
-        if (Input.GetKeyDown(KeyCode.E)) { Interact(); } } void FixedUpdate() 
-        { 
-            rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime); 
-        } 
-        
-        void Interact() 
-        { 
-            RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.zero, interactionRange, interactableLayer); 
-            if (hit.collider != null) 
-            { 
-                IInteractable interactable = hit.collider.GetComponent<IInteractable>(); 
-                
-                if (interactable != null) 
-                { 
-                    interactable.OnInteract(); 
-                    } 
-            } 
-        } 
-    } 
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
+{
+    public float speed = 3f;
+    private Rigidbody2D rb;
+    private Animator animator;
+    private Vector2 movement;
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+    }
+
+    void Update()
+    {
+        movement.x = 0f;
+        movement.y = 0f;
+
+        if (Input.GetKey(KeyCode.W))
+        {
+            movement.y = 1f;
+            animator.Play("Andando para trás");
+        }
+        else if (Input.GetKey(KeyCode.S))
+        {
+            movement.y = -1f;
+            animator.Play("Andando para frente");
+        }
+
+        if (Input.GetKey(KeyCode.A))
+        {
+            movement.x = -1f;
+            animator.Play("Andando para Esquerda");
+        }
+        else if (Input.GetKey(KeyCode.D))
+        {
+            movement.x = 1f;
+            animator.Play("Andando para Direita");
+        }
+
+        if (movement.magnitude == 0)
+        {
+            if (transform.localScale.x < 0)
+            {
+                animator.Play("Idle lado esquerdo");
+            }
+            else if (transform.localScale.x > 0)
+            {
+                animator.Play("Idle lado direito");
+            }
+            else if (movement.y > 0)
+            {
+                animator.Play("Idle trás");
+            }
+            else
+            {
+                animator.Play("Idle");
+            }
+        }
+        movement = movement.normalized;
+        rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
+    }
+}
+

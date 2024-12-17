@@ -1,10 +1,25 @@
 fileFormatVersion: 2
-guid: c1a48459d2f2c574ab9aa1156125423a
+guid: 977619f5f6f6a4f44a87a3ad86602951
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6288063294231043739
-    second: Caveira quebrada_0
+      213: -8734259678995080262
+    second: Fantasma_0
+  - first:
+      213: -4246584029061651648
+    second: Fantasma_1
+  - first:
+      213: 8114808245324326040
+    second: Fantasma_2
+  - first:
+      213: 436514662313467085
+    second: Fantasma_3
+  - first:
+      213: 5331102343778522904
+    second: Fantasma_4
+  - first:
+      213: -5238035526340283945
+    second: Fantasma_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +99,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Standalone
+    buildTarget: Win64
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -97,7 +112,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -122,30 +137,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Caveira quebrada_0
+      name: Fantasma_0
       rect:
         serializedVersion: 2
-        x: 1215
-        y: 3295
-        width: 6562
-        height: 7362
+        x: 0
+        y: 31
+        width: 929
+        height: 1441
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +156,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 561af2edfbf4cb8a0800000000000000
-      internalID: -6288063294231043739
+      spriteID: abb1b79191da9c680800000000000000
+      internalID: -8734259678995080262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 191
+        width: 674
+        height: 1281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043eeee235a1115c0800000000000000
+      internalID: -4246584029061651648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_2
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 95
+        width: 706
+        height: 1377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894a7f2ea179d9070800000000000000
+      internalID: 8114808245324326040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_3
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 31
+        width: 993
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc917ac5cfce0600800000000000000
+      internalID: 436514662313467085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_4
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817db261651ebf940800000000000000
+      internalID: 5331102343778522904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d17c9be072ce47b0800000000000000
+      internalID: -5238035526340283945
       vertices: []
       indices: 
       edges: []
@@ -173,8 +285,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Caveira quebrada_0: -6288063294231043739
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

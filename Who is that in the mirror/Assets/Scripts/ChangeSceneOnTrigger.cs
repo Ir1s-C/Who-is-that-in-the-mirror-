@@ -1,12 +1,14 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
 public class ChangeSceneOnTrigger : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D other)
+    public string sceneToLoad = "Porão";
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (other.CompareTag("Escada"))
+        if (collision.CompareTag("Player"))
         {
-            SceneManager.LoadScene("Porão");
+            SceneManager.LoadScene(sceneToLoad);
         }
     }
 }
